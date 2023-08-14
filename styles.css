@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: 'textile';
+    src: url(font/textile-regular.ttf);
+}
+html {
+    background: black;
+    font-family: 'textile';
+    color: white;
+}
+.recipe-list {
+    color: black;
+    background-color: white;
+    
+}
+.header {
+    text-align: center;
+}
+.charliespag {
+    height: 400px;
+    width: 1240px;
+}
+.spagcontainer {
+    text-align: end;
+    height: 0px;
+    width: auto;
+}
+.recipeimgcont {
+    text-align: end;
+    height: 0px;
+    width: auto;
+}
+.recipeimage {
+    height: 400px;
+    width: auto;
+    
+    
+}
