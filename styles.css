@@ -7,28 +7,55 @@ html {
     background: black;
     font-family: 'textile';
     color: white;
+    
+}
+.content {
+    background-color: whitesmoke;
+    width: 600px;
+    border-radius: 10px;
+    margin: 0px 100px 100px 100px
 }
 .recipe-list {
-    color: black;
-    background-color: white;
+    color: whitesmoke;
+    padding: 20px; 
+    width: 120px;
+    margin: 20px;
+    
+}
+
+.button {
+    height: 150px;
+    width: 510px;
+    margin: 5px;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Textile';
     
 }
 .header {
     text-align: center;
+    font-style: italic;
+    
 }
-.charliespag {
-    height: 400px;
-    width: 1240px;
+.footer {
+    text-align: center;
+    font-size: 40px;
 }
-.spagcontainer {
+.charliecontainer {
+    width: auto;
     text-align: end;
     height: 0px;
-    width: auto;
+    margin: 0px 50px 50px 50px;
 }
+
 .recipeimgcont {
     text-align: end;
     height: 0px;
     width: auto;
+    margin: 50px;
+    
 }
 .recipeimage {
     height: 400px;
